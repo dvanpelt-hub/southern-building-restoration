@@ -71,10 +71,29 @@ const Services = () => {
           />
         </div>
         <div className="services-content-plastering">
-          <h3>Plastering</h3>
+          <h3>Brickwork and Masonry</h3>
           <p>
-            All work we undertake is carried out with care and thought, giving
-            the buildings we work on the respect they deserve.
+            SBR offers a complete range of brickwork, stone, and general masonry repair services, specializing in the restoration and preservation of period properties. With an expert understanding of the intricacies involved in working with historic buildings, SBR’s team is skilled in repairing and conserving traditional brick and stonework, ensuring that the architectural integrity and aesthetic of these properties are maintained. Whether it’s repointing weathered brickwork, repairing damaged stone facades, or restoring intricate masonry features, SBR applies both time-honored techniques and modern methods to deliver high-quality results. Their approach is always mindful of the building’s original character, using materials that match the historical craftsmanship and ensuring that every repair blends seamlessly with the existing structure.
+            <br/>
+            <br/>
+            In addition to brick and stone repairs, SBR provides a wide array of masonry services for period properties, including lintel and arch repairs, chimney restoration, and the restoration of ornamental stonework. The company’s attention to detail and respect for the history of each building makes them a trusted partner for those looking to preserve the charm and heritage of their property. By utilizing skilled craftsmen and carefully sourced materials, SBR ensures that each project is completed with precision and care, extending the life of the property while maintaining its historical value. Whether dealing with weathered stone or deteriorating brickwork, SBR’s masonry services are designed to protect and enhance period properties for generations to come.
+          </p>
+        </div>
+      </div>
+        <div className="services-container-reverse">
+        <div className="services-image-container">
+          <span
+            className="services-image"
+            alt="A picture of a historical chimney."
+          />
+        </div>
+        <div className="services-content-timber">
+          <h3>Timber</h3>
+          <p>
+            SBR is a leading provider in the field of timber restoration and conservation, offering a comprehensive range of services that address all aspects of timber care and preservation. With a deep understanding of the unique qualities and challenges that timber presents, SBR specializes in restoring and conserving wooden structures, flooring, and furniture, ensuring that they not only regain their original beauty but also remain durable for years to come. Their expert team uses state-of-the-art techniques and eco-friendly solutions, offering services such as timber cleaning, refinishing, structural repairs, and protection against future wear and decay. Whether it’s historical restoration or modern timber treatments, SBR ensures every project is handled with the utmost care and attention to detail.
+            <br />
+            <br />
+            The company prides itself on a holistic approach to timber conservation, combining traditional methods with innovative technology to deliver sustainable and long-lasting results. SBR’s timber restoration services extend to a variety of applications, from residential and commercial properties to heritage sites and conservation projects. Their extensive knowledge of different types of wood and their behavior in different environments allows them to provide tailored solutions that meet the specific needs of each client. By preserving the natural beauty and strength of timber, SBR helps to extend the life of valuable wooden assets, while also enhancing their aesthetic appeal.
           </p>
         </div>
       </div>
