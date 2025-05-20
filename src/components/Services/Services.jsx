@@ -54,12 +54,12 @@ const Services = () => {
           />
         </div>
         <div className="services-content-timber">
-          <h3>Timber</h3>
+          <h3>Lime pointing</h3>
           <p>
-            In works we undertake our main aim is to bring a positive input into
-            the building future. This could involve removing of a harmful non
-            breathable paint to be replaced with permeable lime paint or re
-            pointing a soft Clunch stone wall to prolong its life.
+            SBR specializes in all aspects of lime pointing, offering expert services designed to preserve and protect the integrity of historic buildings and structures. Lime pointing is a traditional technique used to repoint mortar joints in brick and stonework, and SBR excels in this highly skilled process. Unlike modern cement-based mortar, lime mortar is breathable, flexible, and much more sympathetic to the natural materials of older buildings. SBR’s team understands the importance of using the right mix and application techniques to match the original material, ensuring the longevity and structural stability of period properties. Whether it’s repointing a building’s facade or repairing joints on smaller features, SBR provides a professional and precise service that respects the craftsmanship of the past.
+            <br />
+            <br />
+            With a deep understanding of historic masonry, SBR’s lime pointing services not only improve the aesthetic appeal of a building but also enhance its performance. Lime mortar allows moisture to escape, preventing the trapped moisture that can cause damage in modern cement-based systems. SBR uses the best quality lime products and employs traditional methods to ensure that each project is completed to the highest standards. From minor repointing repairs to larger conservation projects, SBR’s lime pointing services are an essential part of maintaining and restoring the beauty and function of historic properties for years to come.
           </p>
         </div>
       </div>
