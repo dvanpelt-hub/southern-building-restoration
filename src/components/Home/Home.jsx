@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <>
       <div id="home" className="home-container">
-        <h2>We Are Harbon Builders</h2>
+        <h2>Southern Building Restoration</h2>
         <p>
           Specializing in all aspects of Building Conservation throughout
           Hampshire, Surrey and Sussex
@@ -16,13 +16,13 @@ const Home = () => {
         <div className="slogan-content">
           <h3>Preserving Heritage / Protecting Legacy</h3>
           <p>
-            At Preserving Heritage, Protecting Legacy, we are dedicated to
-            safeguarding the architectural treasures that tell the story of our
-            past. Our mission is to restore and preserve historic buildings with
-            the highest standards of craftsmanship and care, ensuring their
-            beauty and cultural significance endure for future generations. We
-            believe that each historic structure holds a unique place in
-            history, reflecting the values, artistry, and identity of its era.
+            SBR offers comprehensive lime plastering and rendering services,
+            specializing in the restoration and conservation of historic
+            buildings. SBR uses the finest quality lime products and combines
+            them with time-tested methods to ensure the aesthetic and functional
+            performance of each restoration project. Whether it’s refreshing the
+            finish on a period property or undertaking more extensive lime
+            plastering works, SBR delivers meticulous and long-lasting results.
           </p>
         </div>
       </div>
@@ -34,10 +34,11 @@ const Home = () => {
         <div className="about-us-content">
           <h3>About Us</h3>
           <p>
-            At Harbon Builders our aim is to meet your property's needs for its
-            sustainable future, preserving it in the least intrusive manner. Our
-            skilled craftsmen respect and understand the fragile nature of
-            Historic and Listed Buildings.
+            SBR specializes in all aspects of restoration and conservation, with
+            a primary focus on lime work. The company also offers building
+            condition reports, listed building planning assistance, and work
+            scheduling to ensure every project is carried out with precision and
+            respect for the original structure.
           </p>
           <div className="button-primary-homepage-container">
             <Link to="/about" className="button-primary-homepage">
