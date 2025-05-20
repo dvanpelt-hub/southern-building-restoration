@@ -1,0 +1,129 @@
+.services-container,
+.services-container-reverse,
+.services-container-brick {
+  width: 100%;
+  background-color: #1c1c1cea;
+  display: block;
+}
+.services-container {
+  height: 30rem;
+}
+.services-container-reverse {
+  height: 38rem;
+}
+.services-container-brick {
+  height: 60rem;
+}
+.services-content-brick p,
+.services-content-timber p,
+.services-content-plastering p {
+  text-align: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.services-image {
+  background: url("../../media/our-history-photo.png") no-repeat;
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100%;
+  text-align: center;
+  color: #ffffff; /* Ensure text is readable on the background */
+  text-shadow: 1px 1px 2px rgb(70, 70, 70);
+}
+.services-container,
+.services-container-brick {
+  border-bottom: 1px solid #ffffff;
+  width: 100%;
+}
+.services-image-container {
+  height: 60%;
+}
+.services-content-brick {
+  height: 50rem;
+}
+.services-content-timber {
+  height: 40rem;
+}
+.services-content,
+.services-content-brick,
+.services-content-plastering,
+.services-content-timber {
+  margin: 0;
+}
+.services-content h3,
+.services-content-brick h3,
+.services-content-plastering h3,
+.services-content-timber h3 {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+.services-content h3 {
+  padding-bottom: 0rem !important;
+}
+.services-content-brick h3,
+.services-content-plastering h3,
+.services-content-timber h3 {
+  text-align: center;
+  padding: 1.5rem;
+}
+.services-content p,
+.services-content-brick p,
+.services-content-timber p,
+.services-content-plastering p {
+  line-height: 1.6em;
+  font-size: 0.9em;
+}
+.services-content p {
+  text-align: left;
+}
+.services-content p,
+.services-content-brick p,
+.services-content h3,
+.services-content-brick h3,
+.services-content-timber h3,
+.services-content-timber p,
+.services-content-plastering h3,
+.services-content-plastering p {
+  color: #ffffff;
+  margin: 0;
+}
+
+.services-content p,
+.services-content h3 {
+  padding: 1rem 0.5rem;
+}
+.services-title {
+  text-align: center;
+  font-size: 2em;
+  font-weight: 400;
+  color: #656565;
+}
+.services-content p,
+.services-content-brick p,
+.services-content-plastering,
+.services-content-timber {
+  color: rgb(204, 204, 204);
+}
+@media (min-width: 1024px) {
+  .services-container,
+  .services-container-brick,
+  .services-container-reverse {
+    display: flex;
+  }
+  .services-container-reverse {
+    flex-direction: row-reverse;
+  }
+  .services-image-container,
+  .services-content,
+  .services-content-brick,
+  .services-content-plastering,
+  .services-content-timber {
+    border: 1px solid #ffffff;
+    width: 50%;
+    height: 100%;
+  }
+}

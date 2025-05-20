@@ -1,0 +1,282 @@
+.home-container {
+  background: linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0) 0%,
+      rgba(0, 0, 0, 0) 40%,
+      rgba(0, 0, 0, 0.65) 100%
+    ),
+    url("../../media/harbon-builders-homepage-4.png") no-repeat;
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  min-height: 80%; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: -40px;
+  padding-left: 20px;
+  padding-right: 20px;
+  text-align: center;
+  color: #ffffff; /* Ensure text is readable on the background */
+  text-shadow: 1px 1px 2px rgb(70, 70, 70);
+}
+
+/* CSS */
+.button-primary-homepage {
+  appearance: none;
+  background-color: transparent;
+  border: 1px solid #aeaeae;
+  border-radius: 5px;
+  box-sizing: border-box;
+  color: white;
+  cursor: pointer;
+  align-items: center;
+  padding: 6px 12px;
+  font-size: 12px;
+  line-height: normal;
+  letter-spacing: 3px;
+  margin: 0;
+  min-height: 60px;
+  min-width: 0;
+  outline: none;
+  text-align: center;
+  text-decoration: none;
+  touch-action: manipulation;
+  will-change: transform;
+}
+
+.button-primary-homepage:disabled {
+  pointer-events: none;
+}
+
+.button-primary-homepage:hover {
+  color: #fff;
+  background-color: #828282;
+}
+
+.our-projects-image {
+  background: url("../../media/our-services-photo.png") no-repeat;
+}
+
+.our-services-image {
+  background: url("../../media/our-history-photo.png") no-repeat;
+}
+
+.about-us-image {
+  background: url("../../media/building-in-color.png") no-repeat;
+}
+
+.contact-us-image {
+  background: url("../../media/our-history-photo.png") no-repeat;
+}
+
+.our-projects-image,
+.about-us-image,
+.contact-us-image {
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  min-height: 60%; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 20rem;
+  text-align: center;
+  color: #ffffff; /* Ensure text is readable on the background */
+  text-shadow: 1px 1px 2px rgb(70, 70, 70);
+}
+
+.our-services-image {
+  background-size: cover; /* Cover the entire container */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Don't repeat the image */
+  min-height: 50%; /* Ensure it covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #ffffff; /* Ensure text is readable on the background */
+  text-shadow: 1px 1px 2px rgb(70, 70, 70);
+  height: 20rem;
+  align-items: center;
+}
+
+.home-container h2 {
+  font-size: 2em;
+  margin-top: 5rem;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px rgb(70, 70, 70);
+}
+
+.home-container p {
+  line-height: 1.6;
+  font-size: 1.3em;
+  max-width: 600px;
+}
+
+.slogan-container,
+.slogan-content {
+  background-color: #ffffff;
+  height: auto;
+  padding: 2rem 0rem;
+  align-items: center;
+}
+
+.slogan-container h3 {
+  padding: 0;
+  margin: 0px 0px 20px 0px;
+  color: #474747;
+  text-align: center;
+  font-size: 2em;
+  font-weight: 300;
+}
+
+.slogan-container p {
+  color: #474747;
+  text-align: center;
+  line-height: 1.5;
+  width: 70%;
+  margin: auto;
+}
+
+.our-projects-container,
+.our-services-container,
+.about-us-container,
+.contact-us-container {
+  background-color: #1c1c1cea;
+}
+
+.our-projects-content,
+.our-services-content,
+.about-us-content,
+.contact-us-content {
+  height: auto;
+  padding: 2rem 2rem;
+}
+
+.our-services-content h3,
+.our-projects-content h3,
+.about-us-content h3,
+.contact-us-content h3 {
+  margin: 0;
+  text-align: left;
+  font-size: 1.75em;
+  color: white;
+  font-weight: 300;
+}
+
+.our-services-content p,
+.our-projects-content p,
+.about-us-content p,
+.contact-us-content p {
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+  margin: 0;
+  text-align: left;
+  line-height: 1.6em;
+  font-size: 1.2em;
+  color: rgb(204, 204, 204);
+}
+
+/* Media Queries for Larger Screens */
+@media (min-width: 600px) {
+  .home-container {
+    padding: 20px;
+  }
+
+  .home-container h2 {
+    font-size: 1.8em;
+  }
+
+  .home-container p {
+    font-size: 1.2em;
+  }
+}
+
+@media (min-width: 768px) {
+  .home-container h2 {
+    font-size: 2.5em;
+  }
+  .home-container p {
+    font-size: 1.5em;
+  }
+  .slogan-container p {
+    padding: 0rem 8rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .button-primary-homepage-container {
+    padding-left: 1rem;
+    margin-top: 0;
+    margin-bottom: 2em;
+  }
+  .home-container {
+    padding: 20px;
+  }
+  .home-container h2 {
+    font-size: 3em;
+  }
+  .slogan-container {
+    height: 20rem;
+    align-items: center;
+    display: flex;
+  }
+  .our-projects-container,
+  .our-services-container,
+  .about-us-container,
+  .contact-us-container {
+    justify-content: space-evenly;
+    display: flex;
+    height: 40rem;
+  }
+  .our-projects-container,
+  .about-us-container {
+    flex-direction: row-reverse;
+  }
+  .our-services-image,
+  .our-projects-image,
+  .about-us-image,
+  .contact-us-image {
+    width: 50%;
+    height: auto;
+  }
+  .our-services-content,
+  .our-projects-content,
+  .about-us-content,
+  .contact-us-content {
+    padding: 0;
+    border: 2px solid #ffffff;
+    width: 50%;
+    height: auto;
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .our-services-content p,
+  .our-services-content h3,
+  .our-projects-content p,
+  .our-projects-content h3,
+  .about-us-content h3,
+  .about-us-content p,
+  .contact-us-content h3,
+  .contact-us-content p {
+    height: auto;
+    padding: 2rem 1rem;
+    text-align: start;
+  }
+  .our-services-content p,
+  .our-projects-content p,
+  .about-us-content p,
+  .contact-us-content p {
+    font-size: 1em;
+    padding-top: 0;
+  }
+  .our-projects-image,
+  .about-us-image,
+  .contact-us-image,
+  .our-services-image {
+    border: 2px solid #ffffff;
+  }
+}
