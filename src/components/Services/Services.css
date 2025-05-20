@@ -16,7 +16,8 @@
 }
 .services-content-brick p,
 .services-content-timber p,
-.services-content-plastering p {
+.services-content-plastering p,
+.services-content-window p {
   text-align: center;
   padding-left: 2rem;
   padding-right: 2rem;
@@ -51,12 +52,14 @@
 .services-content,
 .services-content-brick,
 .services-content-plastering,
+.services-content-window,
 .services-content-timber {
   margin: 0;
 }
 .services-content h3,
 .services-content-brick h3,
 .services-content-plastering h3,
+.services-content-window h3,
 .services-content-timber h3 {
   font-size: 1.5em;
   font-weight: 400;
@@ -66,6 +69,7 @@
 }
 .services-content-brick h3,
 .services-content-plastering h3,
+.services-content-window h3,
 .services-content-timber h3 {
   text-align: center;
   padding: 1.5rem;
@@ -73,7 +77,8 @@
 .services-content p,
 .services-content-brick p,
 .services-content-timber p,
-.services-content-plastering p {
+.services-content-plastering p,
+.services-content-window p {
   line-height: 1.6em;
   font-size: 0.9em;
 }
@@ -87,7 +92,9 @@
 .services-content-timber h3,
 .services-content-timber p,
 .services-content-plastering h3,
-.services-content-plastering p {
+.services-content-plastering p,
+.services-content-window h3,
+.services-content-window p {
   color: #ffffff;
   margin: 0;
 }
@@ -99,12 +106,13 @@
 .services-title {
   text-align: center;
   font-size: 2em;
-  font-weight: 400;
+  font-weight: 300;
   color: #656565;
 }
 .services-content p,
 .services-content-brick p,
 .services-content-plastering,
+.services-content-window,
 .services-content-timber {
   color: rgb(204, 204, 204);
 }
@@ -121,6 +129,7 @@
   .services-content,
   .services-content-brick,
   .services-content-plastering,
+  .services-content-window,
   .services-content-timber {
     border: 1px solid #ffffff;
     width: 50%;
