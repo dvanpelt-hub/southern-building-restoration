@@ -20,7 +20,7 @@ const Gallery = ({ images }) => {
           <img
             key={index}
             src={image.thumbnail}
-            alt={`Gallery Image ${index + 1}`}
+            alt={`Example of building work ${index + 1}`}
             className="gallery-image"
             onClick={() => openLightbox(image.full)}
           />
@@ -31,7 +31,7 @@ const Gallery = ({ images }) => {
       {selectedImage && (
         <div className="lightbox" onClick={closeLightbox}>
           <div className="lightbox-content">
-            <img src={selectedImage} className="lightbox-image" />
+            <img src={selectedImage} className="lightbox-image" alt="The selection in a lightbox format." />
             <span className="lightbox-close" onClick={closeLightbox}>
               &times;
             </span>
