@@ -17,8 +17,10 @@
 .services-content-brick p,
 .services-content-timber p,
 .services-content-paint-removal p,
+.services-content-condition-reports p,
 .services-content-plastering p,
-.services-content-window p {
+.services-content-window p,
+.services-content-period-property p {
   text-align: center;
   padding-left: 2rem;
   padding-right: 2rem;
@@ -48,23 +50,28 @@
   height: 50rem;
 }
 .services-content-timber,
-.services-content-paint-removal {
+.services-content-paint-removal,
+.services-content-condition-reports {
   height: 50rem;
 }
 .services-content,
 .services-content-brick,
 .services-content-plastering,
 .services-content-window,
+.services-content-period-property,
 .services-content-timber,
-.services-content-paint-removal {
+.services-content-paint-removal,
+.services-content-condition-reports {
   margin: 0;
 }
 .services-content h3,
 .services-content-brick h3,
 .services-content-plastering h3,
 .services-content-window h3,
+.services-content-period-property h3,
 .services-content-timber h3,
-.services-content-paint-removal h3 {
+.services-content-paint-removal h3,
+.services-content-condition-reports h3 {
   font-size: 1.5em;
   font-weight: 400;
 }
@@ -74,8 +81,10 @@
 .services-content-brick h3,
 .services-content-plastering h3,
 .services-content-window h3,
+.services-content-period-property h3,
 .services-content-timber h3,
-.services-content-paint-removal h3 {
+.services-content-paint-removal h3,
+.services-content-condition-reports h3 {
   text-align: center;
   padding: 1.5rem;
 }
@@ -83,8 +92,10 @@
 .services-content-brick p,
 .services-content-timber p,
 .services-content-paint-removal p,
+.services-content-condition-reports p,
 .services-content-plastering p,
-.services-content-window p {
+.services-content-window p,
+.services-content-period-property p {
   line-height: 1.6em;
   font-size: 0.9em;
 }
@@ -99,10 +110,14 @@
 .services-content-timber p,
 .services-content-paint-removal h3,
 .services-content-paint-removal p,
+.services-content-condition-reports h3,
+.services-content-condition-reports p,
 .services-content-plastering h3,
 .services-content-plastering p,
 .services-content-window h3,
-.services-content-window p {
+.services-content-window p,
+.services-content-period-property h3,
+.services-content-period-property p {
   color: #ffffff;
   margin: 0;
 }
@@ -121,8 +136,10 @@
 .services-content-brick p,
 .services-content-plastering,
 .services-content-window,
+.services-content-period-property,
 .services-content-timber,
-.services-content-paint-removal {
+.services-content-paint-removal,
+.services-content-condition-reports {
   color: rgb(204, 204, 204);
 }
 @media (min-width: 1024px) {
@@ -139,8 +156,10 @@
   .services-content-brick,
   .services-content-plastering,
   .services-content-window,
+  .services-content-period-property,
   .services-content-timber,
-  .services-content-paint-removal {
+  .services-content-paint-removal,
+    .services-content-condition-reports {
     border: 1px solid #ffffff;
     width: 50%;
     height: 100%;

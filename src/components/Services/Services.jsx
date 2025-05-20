@@ -200,7 +200,7 @@ const Services = () => {
           </p>
         </div>
       </div>
-       <div className="services-container-reverse">
+      <div className="services-container-reverse">
         <div className="services-image-container">
           <span
             className="services-image"
@@ -210,10 +210,97 @@ const Services = () => {
         <div className="services-content-paint-removal">
           <h3>Paint removal and surface cleaning</h3>
           <p>
-            SBR specializes in non-permeable paint removal from historic fabric, providing careful and precise solutions that prioritize the preservation of the original materials. Over time, non-permeable paints can trap moisture within the fabric of a building, leading to deterioration and damage to the underlying stone, brick, or timber. SBR’s team employs advanced, non-invasive techniques to remove these paints without compromising the condition of the historic surfaces. By using methods such as steam cleaning, chemical gel treatments, or gentle abrasive blasting, SBR ensures that the original fabric is exposed and protected, allowing the building’s natural materials to breathe again and preventing future damage. This restoration process not only helps to restore the aesthetic of the building but also contributes to its long-term stability and health.
+            SBR specializes in non-permeable paint removal from historic fabric,
+            providing careful and precise solutions that prioritize the
+            preservation of the original materials. Over time, non-permeable
+            paints can trap moisture within the fabric of a building, leading to
+            deterioration and damage to the underlying stone, brick, or timber.
+            SBR’s team employs advanced, non-invasive techniques to remove these
+            paints without compromising the condition of the historic surfaces.
+            By using methods such as steam cleaning, chemical gel treatments, or
+            gentle abrasive blasting, SBR ensures that the original fabric is
+            exposed and protected, allowing the building’s natural materials to
+            breathe again and preventing future damage. This restoration process
+            not only helps to restore the aesthetic of the building but also
+            contributes to its long-term stability and health.
             <br />
             <br />
-            In their approach to paint removal, SBR is committed to maintaining the integrity of the historic fabric while achieving the best possible results. Their focus is on minimizing disruption to the original materials and retaining the character of the property. With a deep understanding of the challenges involved in working with older structures, SBR carefully assesses each project to select the most appropriate technique, ensuring that no damage is caused during the process. The end result is a beautifully restored surface that showcases the natural materials and craftsmanship of the period, while safeguarding the building’s future preservation. SBR’s paint removal services are an essential part of maintaining the authenticity and heritage of historic buildings.
+            In their approach to paint removal, SBR is committed to maintaining
+            the integrity of the historic fabric while achieving the best
+            possible results. Their focus is on minimizing disruption to the
+            original materials and retaining the character of the property. With
+            a deep understanding of the challenges involved in working with
+            older structures, SBR carefully assesses each project to select the
+            most appropriate technique, ensuring that no damage is caused during
+            the process. The end result is a beautifully restored surface that
+            showcases the natural materials and craftsmanship of the period,
+            while safeguarding the building’s future preservation. SBR’s paint
+            removal services are an essential part of maintaining the
+            authenticity and heritage of historic buildings.
+          </p>
+        </div>
+      </div>
+      <div className="services-container">
+        <div className="services-image-container">
+          <span
+            className="services-image"
+            alt="A picture of a historical chimney."
+          />
+        </div>
+        <div className="services-content-period-property">
+          <h3>Period Property Roof Repairs</h3>
+          <p>
+            SBR offers expert period property roof repairs, specializing in the
+            restoration and maintenance of historic roofs to ensure their
+            longevity and structural integrity. Our team is highly skilled in
+            working with traditional materials, including slate, tile, and lead,
+            preserving the authenticity of the property while addressing any
+            damage caused by age, weather, or wear. Whether it’s repairing a
+            leaking roof, replacing damaged slates, or re-pointing chimneys, we
+            apply the highest standards of craftsmanship to maintain the
+            aesthetic and historical value of your property.
+            <br />
+            <br />
+            With a keen understanding of the unique challenges presented by
+            period properties, SBR employs time-tested methods and modern
+            techniques to deliver repairs that are both durable and sensitive to
+            the original architecture. Our comprehensive approach includes a
+            thorough inspection, tailored recommendations, and meticulous
+            repairs to restore your roof to its former glory, all while ensuring
+            that it remains protected for years to come.
+          </p>
+        </div>
+      </div>
+      <div className="services-container-reverse">
+        <div className="services-image-container">
+          <span
+            className="services-image"
+            alt="A picture of a historical chimney."
+          />
+        </div>
+        <div className="services-content-condition-reports">
+          <h3>Condition Reports</h3>
+          <p>
+            SBR provides comprehensive period property condition reports,
+            designed to assess the current state of your historic property and
+            identify any areas requiring attention. Our detailed reports offer
+            an in-depth analysis of structural integrity, materials, and
+            potential risks, ensuring that property owners are fully informed
+            about the condition of their buildings. By combining expert
+            knowledge of traditional construction methods with modern diagnostic
+            tools, we deliver accurate, reliable assessments tailored to the
+            unique needs of period properties.
+            <br />
+            <br />
+            Our condition reports cover all aspects of the property, including
+            roofing, masonry, timber, windows, and external facades. With a
+            focus on preserving the property's historical value, we provide
+            practical recommendations for necessary repairs, restoration, and
+            ongoing maintenance. Whether you're considering a purchase, planning
+            renovation work, or simply want to ensure the longevity of your
+            building, SBR’s period property condition reports offer peace of
+            mind and a clear roadmap for maintaining the integrity of your
+            historic property.
           </p>
         </div>
       </div>
