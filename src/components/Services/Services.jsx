@@ -13,17 +13,36 @@ const Services = () => {
           />
         </div>
         <div className="services-content-brick">
-          <h3>Traditional Brickwork</h3>
+          <h3>Lime plastering and rendering</h3>
           <p>
-            We have a wealth of knowledge and experience in the field of
-            Traditional, Heritage, Historic and Conservation Brickwork. Historic
-            Brickwork repairs, maintenance or alteration should always be
-            approached with a view of preserving and prolonging the life of the
-            original fabric, like all aspects of building conservation. At
-            Harbon Builders we can source replacements whether new or reclaimed
-            to exactly match the existing brick fabric with our extensive
-            distribution directory. We can also match mortars to sympathise with
-            the existing mortar of the original brick fabric.
+            SBR offers comprehensive lime plastering and rendering services,
+            specializing in the restoration and conservation of historic
+            buildings. Lime plastering is an essential technique for preserving
+            the authenticity and structural integrity of period properties, and
+            SBR’s expert craftsmen are skilled in applying traditional
+            lime-based plasters and renders to both interior and exterior
+            surfaces. Unlike modern cement-based products, lime plaster is
+            breathable and flexible, allowing buildings to maintain proper
+            moisture regulation and preventing long-term damage. SBR uses the
+            finest quality lime products and combines them with time-tested
+            methods to ensure the aesthetic and functional performance of each
+            restoration project. Whether it’s refreshing the finish on a period
+            property or undertaking more extensive lime plastering works, SBR
+            delivers meticulous and long-lasting results. 
+            <br />
+            <br />
+            In addition to
+            traditional plastering, SBR’s lime rendering services play a vital
+            role in the conservation of historical facades. Lime render provides
+            a durable, weather-resistant coating that allows moisture to escape
+            from the building, protecting the underlying structure from damp and
+            decay. The team at SBR is highly experienced in applying lime render
+            to a wide range of surfaces, including stone, brick, and timber.
+            Their careful approach ensures that the character of the building is
+            preserved while enhancing its longevity. From delicate internal lime
+            plastering to robust external rendering, SBR offers a full range of
+            lime-based services, providing expert solutions to maintain and
+            restore the beauty of historic properties for future generations.
           </p>
         </div>
       </div>
