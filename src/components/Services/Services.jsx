@@ -304,6 +304,23 @@ const Services = () => {
           </p>
         </div>
       </div>
+        <div className="services-container">
+        <div className="services-image-container">
+          <span
+            className="services-image"
+            alt="A picture of a historical chimney."
+          />
+        </div>
+        <div className="services-content-project-management">
+          <h3>Period Property Project Management</h3>
+          <p>
+            SBR offers specialized property project management services designed to guide real estate projects from inception to completion with efficiency and precision. Whether it’s a renovation, new construction, or property development, SBR’s team of experts ensures that all aspects of the project are handled seamlessly. From coordinating contractors and managing budgets to ensuring compliance with local regulations and overseeing timelines, SBR provides a comprehensive approach that minimizes risks and maximizes value for property owners and developers. Their hands-on management ensures that every phase of the project is executed with the utmost attention to detail and quality.
+            <br />
+            <br />
+            Additionally, SBR’s project management services focus on clear communication and transparency, keeping all stakeholders informed and involved throughout the process. They leverage their industry knowledge and network of trusted professionals to streamline workflows, resolve any issues promptly, and ensure the project stays within budget. By providing a strategic, organized approach, SBR allows clients to achieve their vision while maintaining control over the project’s progress and outcomes. Their expertise helps mitigate common challenges in property development, delivering successful results in a timely manner, with high-quality standards that meet or exceed client expectations.
+          </p>
+        </div>
+      </div>
     </>
   );
 };
