@@ -163,7 +163,7 @@ const Services = () => {
           </p>
         </div>
       </div>
-        <div className="services-container">
+      <div className="services-container">
         <div className="services-image-container">
           <span
             className="services-image"
@@ -173,10 +173,47 @@ const Services = () => {
         <div className="services-content-window">
           <h3>Window Restoration</h3>
           <p>
-            SBR offers expert window restoration services, specializing in the preservation and restoration of period windows. These windows, often found in historic or period properties, are integral to the character and charm of the building, but over time, they can deteriorate due to age, weather exposure, and general wear. SBR’s team of skilled craftsmen is experienced in restoring original windows to their former glory, using traditional methods and high-quality materials. They carefully assess the condition of each window and employ specialized techniques to repair, reglaze, and refurbish frames, sashes, and glazing, ensuring that the aesthetic and historical value of the property is preserved.
+            SBR offers expert window restoration services, specializing in the
+            preservation and restoration of period windows. These windows, often
+            found in historic or period properties, are integral to the
+            character and charm of the building, but over time, they can
+            deteriorate due to age, weather exposure, and general wear. SBR’s
+            team of skilled craftsmen is experienced in restoring original
+            windows to their former glory, using traditional methods and
+            high-quality materials. They carefully assess the condition of each
+            window and employ specialized techniques to repair, reglaze, and
+            refurbish frames, sashes, and glazing, ensuring that the aesthetic
+            and historical value of the property is preserved.
             <br />
             <br />
-            In addition to enhancing the appearance and functionality of period windows, SBR’s restoration services improve energy efficiency, offering clients the opportunity to upgrade their windows without compromising the heritage of the building. By repairing and restoring original windows, SBR helps reduce waste and maintain the authenticity of a property, while also addressing modern performance standards. Whether it’s replacing damaged timber, restoring leaded glass, or reworking window mechanisms for smoother operation, SBR’s restoration process ensures that period windows not only look beautiful but also operate efficiently and sustainably for years to come.
+            In addition to enhancing the appearance and functionality of period
+            windows, SBR’s restoration services improve energy efficiency,
+            offering clients the opportunity to upgrade their windows without
+            compromising the heritage of the building. By repairing and
+            restoring original windows, SBR helps reduce waste and maintain the
+            authenticity of a property, while also addressing modern performance
+            standards. Whether it’s replacing damaged timber, restoring leaded
+            glass, or reworking window mechanisms for smoother operation, SBR’s
+            restoration process ensures that period windows not only look
+            beautiful but also operate efficiently and sustainably for years to
+            come.
+          </p>
+        </div>
+      </div>
+       <div className="services-container-reverse">
+        <div className="services-image-container">
+          <span
+            className="services-image"
+            alt="A picture of a historical chimney."
+          />
+        </div>
+        <div className="services-content-paint-removal">
+          <h3>Paint removal and surface cleaning</h3>
+          <p>
+            SBR specializes in non-permeable paint removal from historic fabric, providing careful and precise solutions that prioritize the preservation of the original materials. Over time, non-permeable paints can trap moisture within the fabric of a building, leading to deterioration and damage to the underlying stone, brick, or timber. SBR’s team employs advanced, non-invasive techniques to remove these paints without compromising the condition of the historic surfaces. By using methods such as steam cleaning, chemical gel treatments, or gentle abrasive blasting, SBR ensures that the original fabric is exposed and protected, allowing the building’s natural materials to breathe again and preventing future damage. This restoration process not only helps to restore the aesthetic of the building but also contributes to its long-term stability and health.
+            <br />
+            <br />
+            In their approach to paint removal, SBR is committed to maintaining the integrity of the historic fabric while achieving the best possible results. Their focus is on minimizing disruption to the original materials and retaining the character of the property. With a deep understanding of the challenges involved in working with older structures, SBR carefully assesses each project to select the most appropriate technique, ensuring that no damage is caused during the process. The end result is a beautifully restored surface that showcases the natural materials and craftsmanship of the period, while safeguarding the building’s future preservation. SBR’s paint removal services are an essential part of maintaining the authenticity and heritage of historic buildings.
           </p>
         </div>
       </div>
