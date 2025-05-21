@@ -35,9 +35,37 @@
 .services-image-2 {
     background: url("../../media/limeplastering.jpg") no-repeat;
 }
+.services-image-3 {
+    background: url("../../media/brickbpointing.jpg") no-repeat;
+}
+.services-image-4 {
+    background: url("../../media/scaffolding.JPG") no-repeat;
+}
+.services-image-5 {
+    background: url("../../media/window.jpg") no-repeat;
+}
+.services-image-6 {
+    background: url("../../media/insideroom.jpg") no-repeat;
+}
+.services-image-7 {
+    background: url("../../media/smallhouse.JPG") no-repeat;
+}
+.services-image-8 {
+    background: url("../../media/interior.png") no-repeat;
+}
+.services-image-9 {
+    background: url("../../media/house3.png") no-repeat;
+}
 .services-image,
 .services-image-1,
-.services-image-2 {
+.services-image-2,
+.services-image-3,
+.services-image-4,
+.services-image-5,
+.services-image-6,
+.services-image-7,
+.services-image-8,
+.services-image-9 {
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Don't repeat the image */

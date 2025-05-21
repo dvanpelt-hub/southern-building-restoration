@@ -87,7 +87,7 @@ const Services = () => {
       <div className="services-container">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-3"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -127,7 +127,7 @@ const Services = () => {
       <div className="services-container-reverse">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-4"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -166,7 +166,7 @@ const Services = () => {
       <div className="services-container">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-5"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -203,7 +203,7 @@ const Services = () => {
       <div className="services-container-reverse">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-6"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -243,7 +243,7 @@ const Services = () => {
       <div className="services-container">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-7"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -274,7 +274,7 @@ const Services = () => {
       <div className="services-container-reverse">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-8"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -307,7 +307,7 @@ const Services = () => {
         <div className="services-container">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-9"
             alt="A picture of a historical chimney."
           />
         </div>
