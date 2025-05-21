@@ -27,7 +27,17 @@
   padding-right: 2rem;
 }
 .services-image {
-  background: url("../../media/our-history-photo.png") no-repeat;
+    background: url("../../media/our-history-photo.png") no-repeat;
+}
+.services-image-1 {
+    background: url("../../media/house.png") no-repeat;
+}
+.services-image-2 {
+    background: url("../../media/limeplastering.jpg") no-repeat;
+}
+.services-image,
+.services-image-1,
+.services-image-2 {
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Don't repeat the image */

@@ -8,7 +8,7 @@ const Services = () => {
       <div className="services-container-brick">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-1"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -49,7 +49,7 @@ const Services = () => {
       <div className="services-container-reverse">
         <div className="services-image-container">
           <span
-            className="services-image"
+            className="services-image-2"
             alt="A picture of a historical chimney."
           />
         </div>
