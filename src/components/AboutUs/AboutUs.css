@@ -23,6 +23,14 @@
 }
 .about-image {
   background: url("../../media/building-in-color.png") no-repeat;
+}
+.about-image-2 {
+  background: url("../../media/house.png") no-repeat;
+}
+.about-image-3 {
+    background: url("../../media/scaffolding.JPG") no-repeat;
+}
+.about-image, .about-image-2, .about-image-3 {
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Don't repeat the image */

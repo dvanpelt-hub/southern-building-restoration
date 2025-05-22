@@ -41,7 +41,7 @@ const AboutUs = () => {
       <div className="about-container-reverse">
         <div className="about-image-container">
           <span
-            className="about-image"
+            className="about-image-2"
             alt="A picture of a historical chimney."
           />
         </div>
@@ -81,7 +81,7 @@ const AboutUs = () => {
       <div className="about-container">
         <div className="about-image-container">
           <span
-            className="about-image"
+            className="about-image-3"
             alt="A picture of a historical chimney."
           />
         </div>
