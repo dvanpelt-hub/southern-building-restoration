@@ -4,7 +4,7 @@ import image3 from "../media/chimney2.jpg";
 import image4 from "../media/chimneyrender.jpg";
 import image5 from "../media/house.png";
 import image6 from "../media/house2.png";
-import image7 from "../media/house3.png";
+import image7 from "../media/bagshotlea3.jpg";
 import image8 from "../media/insideroom.jpg";
 import image9 from "../media/interior.png";
 import image10 from "../media/interior2.JPG";
@@ -25,7 +25,6 @@ import image24 from "../media/window2.jpg";
 import image25 from "../media/brickbpointing.jpg"
 import image26 from "../media/bagshotlea.jpg"
 import image27 from "../media/bagshotlea2.jpg"
-import image28 from "../media/bagshotlea3.jpg"
 
 export const slides = [
   {
@@ -135,9 +134,5 @@ export const slides = [
   {
     thumbnail: image27,
     full: image27,
-  },
-  {
-    thumbnail: image28,
-    full: image28,
   },
 ];
