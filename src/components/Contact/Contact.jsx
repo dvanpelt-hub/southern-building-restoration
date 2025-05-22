@@ -5,7 +5,12 @@ const Contact = () => {
   return (
     <div className="contact-container">
       <h2>Contact Us</h2>
-      <form className="contact-form">
+      <div className="contact-container-content">
+        <h3>Southern Buliding Restoration</h3>
+        <p>Phone: +44(xxxxxxxxxxx)</p>
+        <p>Email: sbrwebsitebuild@gmail.com</p>
+      </div>
+      {/* <form className="contact-form">
         <div className="form-group">
           <label>Name:</label>
           <input type="text" name="name" />
@@ -19,7 +24,7 @@ const Contact = () => {
           <textarea name="message"></textarea>
         </div>
         <button type="submit">Submit</button>
-      </form>
+      </form> */}
     </div>
   );
 };
