@@ -88,10 +88,10 @@ export const slides = [
     thumbnail: image15,
     full: image15,
   },
-  {
-    thumbnail: image16,
-    full: image16,
-  },
+  // {
+  //   thumbnail: image16,
+  //   full: image16,
+  // },
   {
     thumbnail: image17,
     full: image17,

@@ -1,8 +1,6 @@
 /* Contact Form Styles */
 .contact-form {
-  background-color: #2c2c2c;
   padding: 15px;
-  border-radius: 8px;
   width: 90%;
   margin-left: auto;
   margin-right: auto;
@@ -13,7 +11,7 @@
 }
 
 .form-group label {
-  color: #fff;
+  color: #313131;
   display: block;
   margin-bottom: 5px;
   font-size: 1em;
@@ -23,16 +21,14 @@
 .form-group textarea {
   width: 90%;
   padding: 10px;
-  background-color: #333;
-  border: 1px solid #444;
+  border: 1px solid rgb(83, 83, 83);
   color: #fff;
-  border-radius: 4px;
 }
 
 .contact-container h2 {
   text-align: center;
   font-size: 2em;
-  font-weight: 400;
+  font-weight: 300;
   color: #656565;
 }
 /* Media Queries for Larger Screens */
