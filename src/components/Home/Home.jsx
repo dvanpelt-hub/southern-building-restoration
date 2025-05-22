@@ -78,11 +78,11 @@ const Home = () => {
         <div className="our-projects-content">
           <h3>Projects</h3>
           <p>
-            Harbon Builders was originally established in 1968, mostly serving
-            the alteration and new build sector. Having encountered Listed and
-            Historic Buildings we have developed an interest in how 'old'
-            properties work and how to maintain them. Now Harbon Builders solely
-            works on Listed and Historic Buildings.
+            SBR has completed projects including but not limited to: Lime
+            Plastering and Rendering, Lime Pointing, Brickwork and Masonry,
+            Timber Works, Window Restoration, Paint Removal and Surface
+            Cleaning, Period Property Roof Repairs, Condition Reports, and
+            Period Property Project Management.
           </p>
           <div className="button-primary-homepage-container">
             <Link to="/projects" className="button-primary-homepage">
