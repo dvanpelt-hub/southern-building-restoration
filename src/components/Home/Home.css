@@ -67,7 +67,7 @@
 }
 
 .contact-us-image {
-  background: url("../../media/smallhouse.JPG") no-repeat;
+  background: url("../../media/house3.png") no-repeat;
 }
 
 .our-projects-image,
@@ -106,12 +106,14 @@
   margin-top: 5rem;
   margin-bottom: 10px;
   text-shadow: 1px 1px 2px rgb(70, 70, 70);
+  font-weight: 300;
 }
 
 .home-container p {
   line-height: 1.6;
   font-size: 1.3em;
   max-width: 600px;
+  font-weight: 300;
 }
 
 .slogan-container,
