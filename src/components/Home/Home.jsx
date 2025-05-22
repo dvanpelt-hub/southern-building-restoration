@@ -99,11 +99,7 @@ const Home = () => {
         <div className="contact-us-content">
           <h3>Contact</h3>
           <p>
-            Harbon Builders was originally established in 1968, mostly serving
-            the alteration and new build sector. Having encountered Listed and
-            Historic Buildings we have developed an interest in how 'old'
-            properties work and how to maintain them. Now Harbon Builders solely
-            works on Listed and Historic Buildings.
+            Need a quote or estimate? Contact us directly.
           </p>
           <div className="button-primary-homepage-container">
             <Link to="/contact" className="button-primary-homepage">

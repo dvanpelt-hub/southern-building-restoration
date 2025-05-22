@@ -55,7 +55,7 @@
 }
 
 .our-projects-image {
-  background: url("../../media/our-services-photo.png") no-repeat;
+  background: url("../../media/house.png") no-repeat;
 }
 
 .our-services-image {
@@ -67,7 +67,7 @@
 }
 
 .contact-us-image {
-  background: url("../../media/our-history-photo.png") no-repeat;
+  background: url("../../media/smallhouse.JPG") no-repeat;
 }
 
 .our-projects-image,
@@ -175,6 +175,7 @@
   text-align: left;
   line-height: 1.6em;
   font-size: 1.2em;
+  font-weight: 300;
   color: rgb(204, 204, 204);
 }
 
