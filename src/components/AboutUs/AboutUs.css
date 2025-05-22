@@ -5,14 +5,14 @@
   display: block;
 }
 .about-container {
-  height: 34rem;
+  height: 68rem;
 }
 .about-container-reverse {
-  height: 37rem;
+  height: 82rem;
 }
 .about-us-title {
   text-align: center;
-  font-size: 1.7em;
+  font-size: 2em;
   font-weight: 300;
   color: #656565;
   width: 90%;
@@ -29,7 +29,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 100%;
+  height: 30rem;
   text-align: center;
   color: #ffffff; /* Ensure text is readable on the background */
   text-shadow: 1px 1px 2px rgb(70, 70, 70);
@@ -38,15 +38,13 @@
   border-bottom: 1px solid #ffffff;
   width: 100%;
 }
-.about-image-container {
-  height: 60%;
-}
 .about-content {
-  margin: 0;
+  margin-left: .5em;
+    margin-right: .5em;
 }
 .about-content h3 {
   font-size: 1.5em;
-  font-weight: 400;
+  font-weight: 300;
   padding-bottom: 0rem !important;
 }
 .about-content p {
