@@ -11,21 +11,6 @@ const Contact = () => {
         <p>Mobile: +44(7794 059825)</p>
         <p>Email: sbrwebsitebuild@gmail.com</p>
       </div>
-      {/* <form className="contact-form">
-        <div className="form-group">
-          <label>Name:</label>
-          <input type="text" name="name" />
-        </div>
-        <div className="form-group">
-          <label>Email:</label>
-          <input type="email" name="email" />
-        </div>
-        <div className="form-group">
-          <label>Message:</label>
-          <textarea name="message"></textarea>
-        </div>
-        <button type="submit">Submit</button>
-      </form> */}
     </div>
   );
 };
