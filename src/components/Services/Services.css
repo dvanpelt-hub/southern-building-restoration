@@ -22,7 +22,7 @@
 .services-content-window p,
 .services-content-period-property p,
 .services-content-project-management p {
-  text-align: center;
+  text-align: left;
   padding-left: 2rem;
   padding-right: 2rem;
 }
@@ -112,7 +112,7 @@
 .services-content-paint-removal h3,
 .services-content-condition-reports h3 {
   font-size: 1.5em;
-  font-weight: 400;
+  font-weight: 300;
 }
 .services-content h3 {
   padding-bottom: 0rem !important;
@@ -125,7 +125,7 @@
 .services-content-timber h3,
 .services-content-paint-removal h3,
 .services-content-condition-reports h3 {
-  text-align: center;
+  text-align: left;
   padding: 1.5rem;
 }
 .services-content p,

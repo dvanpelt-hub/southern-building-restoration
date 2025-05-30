@@ -8,13 +8,10 @@ import image7 from "../media/bagshotlea3.jpg";
 import image8 from "../media/insideroom.jpg";
 import image9 from "../media/interior.png";
 import image10 from "../media/interior2.JPG";
-import image11 from "../media/interior2.png";
 import image12 from "../media/limeplastering.jpg";
 import image13 from "../media/limeplastering2.jpg";
 import image14 from "../media/outside.JPG";
 import image15 from "../media/repoint.jpg";
-import image16 from "../media/roof.jpg";
-import image17 from "../media/roof2.jpg";
 import image18 from "../media/scaffolding.JPG";
 import image19 from "../media/smallhouse.JPG";
 import image20 from "../media/smallhouse2.png";
@@ -68,10 +65,6 @@ export const slides = [
     full: image10,
   },
   {
-    thumbnail: image11,
-    full: image11,
-  },
-  {
     thumbnail: image12,
     full: image12,
   },
@@ -86,14 +79,6 @@ export const slides = [
   {
     thumbnail: image15,
     full: image15,
-  },
-  // {
-  //   thumbnail: image16,
-  //   full: image16,
-  // },
-  {
-    thumbnail: image17,
-    full: image17,
   },
   {
     thumbnail: image18,
