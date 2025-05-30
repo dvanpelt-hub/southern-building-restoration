@@ -85,12 +85,10 @@
 .services-image-container {
   height: 20rem;
 }
-.services-content-brick {
-  height: 50rem;
-}
 .services-content-timber,
 .services-content-paint-removal,
-.services-content-condition-reports {
+.services-content-condition-reports,
+.services-content-brick {
   height: 50rem;
 }
 .services-content,
@@ -211,4 +209,15 @@
     width: 50%;
     height: 100%;
   }
+    .services-container {
+      height: 40rem;
+    }
+  
+    .services-container-reverse {
+      height: 40rem;
+    }
+  
+    .services-container-brick {
+      height: 40rem;
+    }
 }
