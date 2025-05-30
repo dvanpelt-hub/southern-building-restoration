@@ -28,9 +28,11 @@
   background: url("../../media/house.png") no-repeat;
 }
 .about-image-3 {
-    background: url("../../media/scaffolding.JPG") no-repeat;
+  background: url("../../media/scaffolding.JPG") no-repeat;
 }
-.about-image, .about-image-2, .about-image-3 {
+.about-image,
+.about-image-2,
+.about-image-3 {
   background-size: cover; /* Cover the entire container */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Don't repeat the image */
@@ -46,9 +48,9 @@
   border-bottom: 1px solid #ffffff;
   width: 100%;
 }
-.about-content {
-  margin-left: .5em;
-    margin-right: .5em;
+.about-content h3, .about-content p {
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 .about-content h3 {
   font-size: 1.5em;
@@ -74,6 +76,7 @@
   .about-container,
   .about-container-reverse {
     display: flex;
+    height: 32rem;
   }
   .about-container-reverse {
     flex-direction: row-reverse;
