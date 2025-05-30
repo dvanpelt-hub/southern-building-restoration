@@ -77,11 +77,6 @@
   color: #ffffff; /* Ensure text is readable on the background */
   text-shadow: 1px 1px 2px rgb(70, 70, 70);
 }
-.services-container,
-.services-container-brick {
-  border-bottom: 1px solid #ffffff;
-  width: 100%;
-}
 .services-image-container {
   height: 20rem;
 }
@@ -205,7 +200,7 @@
   .services-content-timber,
   .services-content-paint-removal,
   .services-content-condition-reports {
-    border: 1px solid #ffffff;
+    border: 2px solid #ffffff;
     width: 50%;
     height: 100%;
   }

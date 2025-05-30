@@ -44,10 +44,6 @@
   color: #ffffff; /* Ensure text is readable on the background */
   text-shadow: 1px 1px 2px rgb(70, 70, 70);
 }
-.about-container {
-  border-bottom: 1px solid #ffffff;
-  width: 100%;
-}
 .about-content h3, .about-content p {
   padding-left: 0.5em;
   padding-right: 0.5em;
@@ -83,7 +79,7 @@
   }
   .about-image-container,
   .about-content {
-    border: 1px solid #ffffff;
+    border: 2px solid #ffffff;
     width: 50%;
     height: 100%;
   }
