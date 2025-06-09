@@ -53,4 +53,9 @@
   .contact-form {
     padding: 25px;
   }
+  .contact-container-content {
+    text-align: center;
+    margin-left: 0;
+    margin-bottom: auto;
+  }
 }
