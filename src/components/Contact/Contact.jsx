@@ -9,7 +9,7 @@ const Contact = () => {
         <h3>Southern Buliding Restoration</h3>
         <p>Office: +44(1420 474960)</p>
         <p>Mobile: +44(7794 059825)</p>
-        <p>Email: sbrwebsitebuild@gmail.com</p>
+        <p>Email: southernbuildingrestoration@gmail.com</p>
       </div>
     </div>
   );
